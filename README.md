@@ -1,3 +1,5 @@
-# Contemporary Issues In Data
+# Discussion of Articles
+<br>Today we are going to talk about two comtemporary issues on data nowadays. We will focus on two different articles.<br>
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+## Five Critical Genes Related to Seven COVID-19 Subtypes: A Data Science Discovery
+In Zhengjun Zhang's [Five Critical Genes Related to Seven COVID-19 Subtypes: A Data Science Discovery](https://jds-online.org/journal/JDS/article/75/info), 
